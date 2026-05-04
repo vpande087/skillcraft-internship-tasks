@@ -6,9 +6,3 @@ In this task, I completed a final project applying data analysis and visualizati
 ## 🛠 Tools Used
 - Python / Power BI / Excel  
 - Data Analysis & Visualization  
-
-## 📷 Output
-(Add screenshots here)
-
-## 🎥 Demo
-(Add Google Drive link if video)
