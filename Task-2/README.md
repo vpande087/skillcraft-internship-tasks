@@ -18,6 +18,3 @@ In this task, I performed Exploratory Data Analysis (EDA) on the dataset to unde
 
 
 
-## 🎥 Output
-
-(Add your video link here)
