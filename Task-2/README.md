@@ -16,11 +16,7 @@ In this task, I performed Exploratory Data Analysis (EDA) on the dataset to unde
 
 * Python (Pandas, Matplotlib / Seaborn) / Excel
 
-## 🎯 Outcome
 
-* Identified key trends and patterns
-* Improved understanding of dataset
-* Generated meaningful insights
 
 ## 🎥 Output
 
